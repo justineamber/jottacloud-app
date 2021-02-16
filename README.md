@@ -13,6 +13,6 @@ This gallery was built using the following technologies:
 1. [React.js](https://reactjs.org/)
 2. [Create react app](https://github.com/facebook/create-react-app)
 3. [Typescript](https://www.typescriptlang.org/)
-4. [React Bootstrap](https://react-bootstrap.github.io/)
+4. [Material-UI](https://material-ui.com/)
 5. [Feather Icons](https://feathericons.com/)
 6. [Firebase Hosting](https://firebase.google.com/docs/hosting)
